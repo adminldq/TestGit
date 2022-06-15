@@ -11,6 +11,7 @@ public class TestController {
         System.out.println("git1。。hot_fix");
         System.out.println("git2。。hot_fix");
         System.out.println("git3。。hot_fix");
+         System.out.println("拉去服务开始");
 
     }
 }
